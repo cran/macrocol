@@ -1,0 +1,10 @@
+462b216580c11d422823811c9ab6c396 *DESCRIPTION
+db2496b7944d2c528031a023a6af5e5f *NAMESPACE
+a3668c507a220826edd2ce9c4ff610cb *R/scrapping_pack.R
+d3b407d958d76495e35bd05af78729b0 *man/get.Acciones.Rd
+20e939306930ee004106addb321ea679 *man/get.Colcap.Rd
+d3aceff0936a498d0028af54d86c2204 *man/get.IBR.Rd
+9f30d9f9f6ab34ed6e35e436886289d1 *man/get.IPC.Rd
+75cf4d022adbf9d3e91ceca5e7ab3b2d *man/get.TRM.Rd
+2c4bfc7c4d3e0e79b8965c01da7a5373 *man/get.TasaDesempleoCol.Rd
+d1c4220c52ff977cf3f4e4eddaed741b *man/get.TasaIntBanRep.Rd
